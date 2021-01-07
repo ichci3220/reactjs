@@ -198,6 +198,145 @@ function Teams() {
            <h4>Directory of Board Members 2020/2021</h4>
            <img src={Directory}/>
        </div>
+       <div className="wrapper">
+           <h1>Past Board 2019/2020
+               
+           </h1>
+           <div className="our_team">
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Isum Abeywardana</h3>
+                   <span>President</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Shanya Palliyaguruge</h3>
+                   <span>Vice President</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={Shaun}/>
+                   </div>
+                   <h3>Shaun Mathaiz</h3>
+                   <span>Sergent At Arms</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Tasneem Rafee</h3>
+                   <span>Secretary</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Micaiah De silva</h3>
+                   <span>Asst. Secretary</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Chindumi</h3>
+                   <span>Tresurer</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Rindesh </h3>
+                   <span>Asst. Tresurer</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Shannon Perera</h3>
+                   <span>Editor</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Shanel Palliyaguruge</h3>
+                   <span>Director Finance</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>  
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Tarindi Wijesooriya</h3>
+                   <span>Directress International Understanding</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Tiasha Joachim</h3>
+                   <span>Directress Community Service</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Bashini ranaweera</h3>
+                   <span>Directress Green Life</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Shannon Perera</h3>
+                   <span>Directress Club service</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Mrs.Piyumi Munasingha</h3>
+                   <span>Staff Advisor</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Mrs.Asanka Narangoda</h3>
+                   <span>Staff Advisor</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+               <div className="team_member">
+                   <div className="member_img">
+                       <img src={logo}/>
+                   </div>
+                   <h3>Mrs.Ishara Dassanayaka</h3>
+                   <span>Staff Advisor</span>
+                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
+               </div>
+           </div>
+       </div>
+       <div className="directory">
+           <h4>Directory of Board Members 2019/2020</h4>
+           <img src={Directory}/>
+       </div>
        
        
         </>
