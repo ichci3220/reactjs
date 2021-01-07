@@ -7,7 +7,19 @@ import logo from '../components/images/img1.jpg'
 import Shaun from '../components/images/Shaun.jpeg'
 import "./Team.css"
 import Directory from '../components/images/Directory.png'
-
+import Aayuka from '../components/images/Aayuka.jpg'
+import Aveesha from '../components/images/Aveesha.jpg'
+import Dhinali from '../components/images/Dhinali.jpg'
+import Jayith from '../components/images/Jayith.jpg'
+import Kellen from '../components/images/Kellen.jpg'
+import Keshan from '../components/images/Keshan.jpg'
+import Kulindu from '../components/images/Kulindu.jpg'
+import Micaiah from '../components/images/Micaiah.jpg'
+import Nethmi from '../components/images/Nethmi.jpg'
+import Shannon from '../components/images/Shannon.jpg'
+import Shashini from '../components/images/Shashini.jpg'
+import Tasneem from '../components/images/Tasneem.jpg'
+import Tharindi from '../components/images/Tharindi.jpg'
 
 function Teams() {
     return (
@@ -58,7 +70,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Micaiah}/>
                    </div>
                    <h3>Micaiah De Silva</h3>
                    <span>Vice President</span>
@@ -74,7 +86,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Tasneem}/>
                    </div>
                    <h3>Tasneem Rafee</h3>
                    <span>Secretary</span>
@@ -82,7 +94,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Jayith}/>
                    </div>
                    <h3>Jayith Gunasekara</h3>
                    <span>Asst. Secretary</span>
@@ -90,7 +102,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Dhinali}/>
                    </div>
                    <h3>Dhinali Dhabare</h3>
                    <span>Tresurer</span>
@@ -98,7 +110,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Keshan}/>
                    </div>
                    <h3>Keshan Dassanayaka</h3>
                    <span>Asst. Tresurer</span>
@@ -106,7 +118,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Tharindi}/>
                    </div>
                    <h3>Tharindi Wijesooriya</h3>
                    <span>Editor</span>
@@ -114,7 +126,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Kulindu}/>
                    </div>
                    <h3>Kulindu Kodithuwakku</h3>
                    <span>Director Finance</span>
@@ -122,7 +134,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Aveesha}/>
                    </div>
                    <h3>Aveesha Bandara</h3>
                    <span>Director Public Relations</span>
@@ -130,7 +142,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Shashini}/>
                    </div>
                    <h3>Shahini Lakpathirana</h3>
                    <span>Directress Personal Development</span>
@@ -138,7 +150,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Kellen}/>
                    </div>
                    <h3>Kellen Ranathunga</h3>
                    <span>Director International Understanding</span>
@@ -146,7 +158,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Nethmi}/>
                    </div>
                    <h3>Nethmi Botheju</h3>
                    <span>Directress Community Service</span>
@@ -154,7 +166,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Aayuka}/>
                    </div>
                    <h3>Aayuka Panditharathna</h3>
                    <span>Director Green Life</span>
@@ -162,7 +174,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Shannon}/>
                    </div>
                    <h3>Shannon Perera</h3>
                    <span>Director Club service</span>
