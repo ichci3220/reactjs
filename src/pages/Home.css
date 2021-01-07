@@ -1,0 +1,153 @@
+/*message from president*/
+
+.Presidentmsg .image {
+  text-align: center;
+  
+}
+
+.Presidentmsg img {
+  border-radius: 50%;
+  border-style: dashed;
+  border: #060b26;
+  height: 250px;
+  width: 250px;
+  align-self: center;
+  text-align: center;
+}
+
+.Presidentmsg h2 {
+  color: #060b26;
+  text-align: center;
+}
+
+.Presidentmsg h3 {
+  color: #060b26;
+  text-align: center;
+}
+.Presidentmsg p{
+    text-align: center;
+    color: #060b26;
+    margin: 50px;
+    font-weight: 300;
+    font-size: 25px;
+}
+.Presidentmsg .readmore{
+    text-align: center;    
+}
+.Presidentmsg button{
+    background-color: #060b26;
+    color: #ffffff;
+    border-radius: 15px;
+    height: 50px;
+    width: 100px;
+}
+ 
+
+/*testimonials*/
+.testimonials{
+    padding: 40px 0;
+    background: #f1f1f1;
+    color: #434343;
+    text-align: center;
+}
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+}
+.border{
+    width: 160px;
+    height: 5px;
+    background: #060b26;
+    margin: 26px auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.col{
+    flex: 33.33%;
+    max-width: 33.33%;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.testimonial{
+    background: rgb(196, 196, 196);
+    padding: 30px;
+}
+.testimonial img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px 0;
+
+}
+@media screen and (max-width:960px){
+    .col{
+        flex: 100%;
+        max-width: 80%;
+    }
+}
+.upcoming{
+    text-align: center;    
+    font-weight: 600;   
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; 
+}
+.upcoming h3{
+    text-decoration: underline;
+}
+.container3{    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;   
+    flex-wrap: wrap;
+}
+.card {
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 210px 310px ;
+    grid-template-areas: "image" "text";
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 18px;
+    background: white;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.9);
+    text-align: center;
+    margin: 30px ;
+}
+.card-image{
+    grid-area: image;
+    background: url(../components/images/img1.jpg);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: cover;
+}
+.card-text{
+    grid-area: text;
+    margin: 25px;    
+}
+.card-text .date{
+    color: #000;
+    font-size: 13px;
+}
+.card-text p{
+    color: grey;
+    font-size: 15px;
+    font-weight: 300;
+}
+.card-text h2{
+    margin-top: 0;
+    font-size: 28px;
+}
+.card-stats{
+    grid-area: stats;
+}
