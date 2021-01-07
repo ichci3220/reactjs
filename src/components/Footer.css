@@ -33,7 +33,7 @@ footer{
   display: inline-block;
 }
 .box a img{
-  background: #333;
+  background: rgb(56, 56, 56);
   width: 40px;
   height: 40;
   text-align: center;
@@ -47,7 +47,8 @@ footer{
   border-radius: 50%;
 }
 .social{
-  margin-top: 5px;  
+  margin-top: 5px;
+  
 }
 .adress a{
   display: block;
