@@ -241,7 +241,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Tasneem}/>
                    </div>
                    <h3>Tasneem Rafee</h3>
                    <span>Secretary</span>
@@ -249,7 +249,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Micaiah}/>
                    </div>
                    <h3>Micaiah De silva</h3>
                    <span>Asst. Secretary</span>
@@ -273,7 +273,7 @@ function Teams() {
                </div>
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Shannon}/>
                    </div>
                    <h3>Shannon Perera</h3>
                    <span>Editor</span>
@@ -289,7 +289,7 @@ function Teams() {
                </div>  
                <div className="team_member">
                    <div className="member_img">
-                       <img src={logo}/>
+                       <img src={Tharindi}/>
                    </div>
                    <h3>Tarindi Wijesooriya</h3>
                    <span>Directress International Understanding</span>
@@ -315,7 +315,7 @@ function Teams() {
                    <div className="member_img">
                        <img src={logo}/>
                    </div>
-                   <h3>Shannon Perera</h3>
+                   <h3>Sanuthi De Silva</h3>
                    <span>Directress Club service</span>
                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>                   
                </div>
