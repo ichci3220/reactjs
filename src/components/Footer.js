@@ -2,6 +2,9 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 import './Footer.css'
+import Facebook from './images/facebook.png'
+import Instagram from'./images/instagram.png'
+import Youtube from './images/youtube.png'
 
 function Footer() {
   return (
@@ -12,14 +15,14 @@ function Footer() {
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>          
           <div className="social">
-            <a href="#">
-              <img src="#"/>
+            <a href="https://www.facebook.com/horizon.interact/">
+              <img src={Facebook}/>
+            </a>
+            <a href="https://www.instagram.com/horizon.interact/">
+              <img src={Instagram}/>
             </a>
             <a href="#">
-              <img src="#"/>
-            </a>
-            <a href="#">
-              <img src="#"/>
+              <img src={Youtube}/>
             </a>
           </div>
         </div>
