@@ -20,6 +20,7 @@
     margin: 5px;
     background: rgb(156, 156, 156);
     padding: 20px 10px;
+    border-radius: 15px;
 }
 .wrapper.our_team .team_member .member_img{
     background: #e9e5fa;
