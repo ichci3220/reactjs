@@ -43,6 +43,7 @@ function Projects() {
            <div className="icon">
                <img src={Logo}/>
            </div>
+           
            <div className="content">
            <h3>Personal Development</h3>
               <p>This section includes all the Personal Development

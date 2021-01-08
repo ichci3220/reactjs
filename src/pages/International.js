@@ -11,38 +11,15 @@ function International() {
            <div className="card-image"></div>
            <div className="card-text">
                <span class="date">20201/01/04</span>
-               <h2>New School Look</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <h2>Spook-O-Fest</h2>
+               <p>SPOOK-O-FEST is a Halloween-themed Contest Seriesinitiated in order
+to present an entertaining competition to Interactors of the Interact District 3220, despite the
+current Pandemic, in celebration of Halloween 2020 and a valuable mug was presented along
+with e-certificates to all winner and to the executive committees of all clubs.</p>
 
            </div>
        </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>Christmas Mug Sale</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
+       
       </div>
         </div>
     )

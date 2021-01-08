@@ -11,8 +11,9 @@ function Green() {
            <div className="card-image"></div>
            <div className="card-text">
                <span class="date">20201/01/04</span>
-               <h2>New School Look</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <h2>Green Con Bidding</h2>
+               <p>We bid for the District Green Life Project and were placed third. We
+will however, execute our plan in a smaller scale as a green life initiative</p>
 
            </div>
        </div>
@@ -20,29 +21,14 @@ function Green() {
            <div className="card-image"></div>
            <div className="card-text">
                <span class="date">20201/01/04</span>
-               <h2>Christmas Mug Sale</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <h2>Meraki</h2>
+               <p>Meraki is a DIY competition where the participants must create
+something out of recycled material, in order to promote the recycling process and to
+minimize the careless disposal of plastics and non-biodegradable matter</p>
 
            </div>
        </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
+       
       </div>
         </div>
     )

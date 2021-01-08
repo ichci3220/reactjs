@@ -11,38 +11,16 @@ function Public() {
            <div className="card-image"></div>
            <div className="card-text">
                <span class="date">20201/01/04</span>
-               <h2>New School Look</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <h2>Rotary Interactive Quarantine</h2>
+               <p>Two delegate of ICHCI, President Int.Shaun and Vice
+President Int.Micaiah are part of the Rotary Interactive Quarantine Initiative which
+aims to make the Quarantine period a productive one by getting to know Interactors form
+around the globe and by contributing to projects.
+</p>
 
            </div>
        </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>Christmas Mug Sale</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
+       
       </div>
         </div>
     )

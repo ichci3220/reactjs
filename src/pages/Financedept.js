@@ -8,21 +8,14 @@ function Financedept() {
         <Slider/>
      <h4>Our Finance Projects</h4>
      <div className="container3">
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
+       
        <div className="card">
            <div className="card-image"></div>
            <div className="card-text">
                <span class="date">20201/01/04</span>
                <h2>Christmas Mug Sale</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <p>A Fundraising project was carried out for Christmas by selling mugs for
+Christmas, each LKR 600 with customization for an additional LKR 100.</p>
 
            </div>
        </div>
@@ -31,19 +24,10 @@ function Financedept() {
            <div className="card-text">
                <span class="date">20201/01/04</span>
                <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+               <p>A website was created so anyone can easily access us and to get a monthly turnover</p>
 
            </div>
-       </div>
-       <div className="card">
-           <div className="card-image"></div>
-           <div className="card-text">
-               <span class="date">20201/01/04</span>
-               <h2>ICHCI Web</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-           </div>
-       </div>
+       </div>      
       </div>
         </>
     )
