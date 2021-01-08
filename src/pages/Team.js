@@ -1,8 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import banner from '../components/images/silderimg1.jpg'
-import Carousel from 'react-bootstrap/Carousel'
 import logo from '../components/images/img1.jpg'
 import Shaun from '../components/images/Shaun.jpeg'
 import "./Team.css"
@@ -20,41 +18,12 @@ import Shannon from '../components/images/Shannon.jpg'
 import Shashini from '../components/images/Shashini.jpg'
 import Tasneem from '../components/images/Tasneem.jpg'
 import Tharindi from '../components/images/Tharindi.jpg'
+import Slider from '../components/Slider'
 
 function Teams() {
     return (
         <>
-         <Carousel>
-            <Carousel.Item>
-               <img
-                className="w-100"
-                src={banner}
-                alt="First slide"
-                />
-            <Carousel.Caption>      
-            </Carousel.Caption>
-           </Carousel.Item>
-            <Carousel.Item>
-               <img
-                className="w-100"
-                src={banner}
-                alt="Third slide"
-                />
-
-           <Carousel.Caption>      
-           </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-           <img
-            className="w-100"
-            src={banner}
-            alt="Third slide"
-           />
-
-         <Carousel.Caption>   
-         </Carousel.Caption>
-        </Carousel.Item>
-       </Carousel> 
+        <Slider/>
        <div className="wrapper">
            <h1>Our Board 2020/2021
                

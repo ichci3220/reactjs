@@ -1,46 +1,14 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-import Carousel from 'react-bootstrap/Carousel'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import banner from '../components/images/silderimg1.jpg'
+import Slider from '../components/Slider'
 import './Project.css'
 import Logo from '../components/images/img1.jpg'
-
+import { Link } from 'react-router-dom'
 function Projects() {
     return (
         <>
-                     <Carousel>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner}
-      alt="First slide"
-    />
-    <Carousel.Caption>      
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner}
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>      
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner}
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>   
-    </Carousel.Caption>
-  </Carousel.Item>
-</Carousel> 
+        <Slider/>
    <div className="container-1">
        <div className="box-1">
            <div className="icon">
@@ -52,7 +20,9 @@ function Projects() {
                   Projects done by the Interact Club of Horizon College 
                   International
               </p>
-              <a href="#">Projects</a>
+              <Link to="/communityservice">                          
+              Projects
+              </Link>
            </div>
        </div>
        <div className="box-1">
@@ -64,7 +34,9 @@ function Projects() {
               <p>This section includes all the Finance
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/finance">                          
+              Projects
+              </Link>
            </div>
        </div>
        <div className="box-1">
@@ -76,7 +48,9 @@ function Projects() {
               <p>This section includes all the Personal Development
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/personaldevelopment">                          
+              Projects
+              </Link>
            </div>
        </div>       
        <div className="box-1">
@@ -88,7 +62,9 @@ function Projects() {
               <p>This section includes all the Club Service
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/clubservice">                          
+              Projects
+              </Link>
            </div>
        </div>
        <div className="box-1">
@@ -100,7 +76,9 @@ function Projects() {
               <p>This section includes all the International Understanding
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/internationalunderstanding">                          
+              Projects
+              </Link>
            </div>
        </div>
        <div className="box-1">
@@ -112,7 +90,9 @@ function Projects() {
               <p>This section includes all the Public Relation
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/publicrelations">                          
+              Projects
+              </Link>
            </div>
        </div>
        <div className="box-1">
@@ -124,7 +104,9 @@ function Projects() {
               <p>This section includes all the Green Life
                   Projects done by the Interact Club of Horizon College 
                   International</p>
-              <a href="#">Projects</a>
+                  <Link to="/greenlife">                          
+              Projects
+              </Link>
            </div>
        </div>  
    </div>

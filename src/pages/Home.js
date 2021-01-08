@@ -1,9 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
-import Carousel from 'react-bootstrap/Carousel'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import banner from '../components/images/silderimg1.jpg'
-import banner2 from '../components/images/sliderimg2.jpg'
+import Slider from '../components/Slider'
 import President from '../components/images/president.jpg'
 import './Home.css'
 import logo from '../components/images/img1.jpg'
@@ -12,38 +9,7 @@ import logo from '../components/images/img1.jpg'
 function Home() {
     return (
         <div> 
-                
-               <Carousel>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner}
-      alt="First slide"
-    />
-    <Carousel.Caption>      
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner2}
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>      
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="w-100"
-      src={banner}
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>   
-    </Carousel.Caption>
-  </Carousel.Item>
-</Carousel> 
+           <Slider/>
 <div className="Presidentmsg">    
     <div className="image">
         <img src={President}/>
@@ -57,9 +23,7 @@ function Home() {
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  </p>
- <div className="readmore">
-   <button>Read More </button>
- </div>
+ 
 </div>
    <div className="testimonials">
        <div className="inner">
